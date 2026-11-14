@@ -17,6 +17,13 @@ Se você busca um profissional com pulso de liderança, visão de produto e sól
 ---
 
 ### 🥇 Badges de Conhecimento e Certificados
-
+<img 
+    align="left" 
+    alt="SCRUM"
+    title="SCRUM" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg](https://images.credly.com/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png" 
+/>
 
 
