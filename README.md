@@ -1,8 +1,8 @@
-## 👩🏻‍💼 Matheus Menezes Santana
+# 👩🏻‍💼 Matheus Menezes Santana
 
 **`Agile Coach | Product Owner | Scrum Master | Gestão de Projetos Ágeis `**
 
-### 👤 Sobre Mim
+## 👤 Sobre Mim
 
 Atuo na interseção entre estratégia de negócios, tecnologia e pessoas, liderando times na concepção, evolução e entrega de produtos digitais de alto impacto. Sou formado em Engenharia Mecânica, certificado Professional Scrum Master I (PSM I) pela Scrum.org e possuo MBAs em Metodologias Ágeis, Gestão de Projetos e Processos, Liderança e Planejamento Estratégico.
 
@@ -13,15 +13,15 @@ Utilizo frameworks e metodologias como Scrum, Kanban e abordagens híbridas conf
 Com perfil colaborativo, comunicativo e orientado a resultados, acredito que a agilidade é um meio — e não um fim — para gerar valor real para clientes e organizações, construindo ambientes seguros e times autônomos.
 
 Se você busca um profissional com pulso de liderança, visão de produto e sólida bagagem em agilidade para impulsionar seus resultados, será um prazer conversar.
+<br clear="all">
+<br clear="all">
 
----
-
-### 🥇 Badges de Conhecimento e Certificados
+## 🥇 Selos e Insignias
 <img 
     align="left" 
     alt="GREEM BELT"
     title="Six Sigma Greem Belt Certified" 
-    width="50px" 
+    width="85px" 
     style="padding-right: 10px;" 
     src="https://img-c.udemycdn.com/open-badges/v2/badge-class/2135753136/image10916662752277114320.png" 
 />
@@ -30,7 +30,7 @@ Se você busca um profissional com pulso de liderança, visão de produto e sól
     align="left" 
     alt="BLACK BELT"
     title="Six Sigma BLack Belt Certified" 
-    width="50px" 
+    width="85px" 
     style="padding-right: 10px;" 
     src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1164606349/image16710375311155795879.png" 
 />
@@ -39,19 +39,34 @@ Se você busca um profissional com pulso de liderança, visão de produto e sól
     align="left" 
     alt="PSM I - Scrum.org"
     title="Professional Scrum Master I" 
-    width="50px" 
+    width="85px" 
     style="padding-right: 10px;" 
     src="https://images.credly.com/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png" 
 />
+<br clear="all">
+<br clear="all">
+## 🎓 Graduações
+Texto
+<br clear="all">
+<br clear="all">
+## 📃Certificações
+Texto
+<br clear="all">
+<br clear="all">
+## 📊 Projetos em Destaque
+Texto
+<br clear="all">
+<br clear="all">
+## 🧠 Competências
+Texto
+<br clear="all">
+<br clear="all">
+## 🛠️ Ferramentas
+Texto
+<br clear="all">
+<br clear="all">
+## 📧 Contato
+Texto
+<br clear="all">
+<br clear="all">
 
-
-### 📊 Projetos em Destaque
-
-#### **[01] Plataforma Financeira** *(DMK3 · Full-Stack)*[cite: 1]
-Sistema de gestão financeira de um órgão do Governo do Estado de São Paulo: compras, pagamentos, estornos, devoluções e ressarcimentos, com rastreabilidade de ponta a ponta[cite: 1].
-* Atuei como back-end principal e também no front-end, conduzindo o ciclo completo da definição técnica ao deploy[cite: 1].
-* Traduzi as regras financeiras do órgão em fluxos e requisitos do sistema junto à gestão[cite: 1].
-
-`NestJS` `Fastify` `TypeScript` `React` `Docker`[cite: 1]
-
-[Ver detalhes do projeto](https://github.com/seu-usuario/seu-repositorio)
