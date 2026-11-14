@@ -21,7 +21,7 @@ Se você busca um profissional com pulso de liderança, visão de produto e sól
     align="left" 
     alt="PSM I - Scrum.org"
     title="Professional Scrum Master I" 
-    width="40px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://images.credly.com/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png" 
 />
