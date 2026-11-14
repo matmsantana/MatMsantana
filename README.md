@@ -44,10 +44,10 @@ Se você busca um profissional com pulso de liderança, visão de produto e sól
     src="https://images.credly.com/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png" 
 />
 
+
 ---
 ### 📈 Projetos
 
-<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
