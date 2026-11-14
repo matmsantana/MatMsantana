@@ -13,7 +13,7 @@ Com perfil colaborativo, comunicativo e orientado a resultados, acredito que a a
 Se você busca um profissional com pulso de liderança, visão de produto e sólida bagagem em agilidade para impulsionar seus resultados, será um prazer conversar.
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="matheus.m.santana@outlook.com">
         <img 
             alt="mail" 
             title="E-mail" 
