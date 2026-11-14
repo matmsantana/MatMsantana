@@ -19,6 +19,24 @@ Se você busca um profissional com pulso de liderança, visão de produto e sól
 ### 🥇 Badges de Conhecimento e Certificados
 <img 
     align="left" 
+    alt="GREEM BELT"
+    title="Six Sigma Greem Belt Certified" 
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://img-c.udemycdn.com/open-badges/v2/badge-class/2135753136/image10916662752277114320.png" 
+/>
+
+<img 
+    align="left" 
+    alt="BLACK BELT"
+    title="Six Sigma BLack Belt Certified" 
+    width="50px" 
+    style="padding-right: 10px;" 
+    src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1164606349/image16710375311155795879.png" 
+/>
+
+<img 
+    align="left" 
     alt="PSM I - Scrum.org"
     title="Professional Scrum Master I" 
     width="50px" 
